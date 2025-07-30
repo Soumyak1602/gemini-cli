@@ -19,7 +19,7 @@ With the Gemini CLI you can:
 
 ## Quickstart
 
-You have two options to install Gemini CLI.
+You have two options to install Gemini CLI..
 
 ### With Node
 
